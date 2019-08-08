@@ -1,0 +1,822 @@
+@charset "UTF-8";
+.main_cake_coupon_exchange .global_header_new .header_wrap {
+  border-bottom: 0;
+}
+.main_cake_coupon_exchange .global_header_new .header_wrap .header_content .logo_img {
+  display: none;
+}
+.main_cake_coupon_exchange .global_header_new .header_wrap .header_content .right_content .select_city_wrap {
+  z-index: 21;
+  top: -28px;
+}
+.main_cake_coupon_exchange .global_header_new .header_wrap .header_content .global_nav {
+  display: none;
+}
+.main_cake_coupon_exchange .main .coupon_top {
+  border-bottom: 1px solid #e5e5e5;
+}
+.main_cake_coupon_exchange .main .coupon_top .header_title {
+  position: relative;
+  z-index: 21;
+  background: transparent;
+  padding-left: 64px;
+}
+.main_cake_coupon_exchange .main .coupon_top .header_title .abs_wrap {
+  position: absolute;
+  left: 64px;
+  top: -32px;
+}
+.main_cake_coupon_exchange .main .coupon_top .header_title .logo_wrap {
+  width: 207px;
+}
+.main_cake_coupon_exchange .main .coupon_top .header_title h1 {
+  position: relative;
+  font-size: 18px;
+  line-height: 25px;
+  color: #a4a4a4;
+  margin-left: 36px;
+}
+.main_cake_coupon_exchange .main .coupon_top .header_title h1:before {
+  content: '';
+  position: absolute;
+  width: 1px;
+  height: 22px;
+  left: -17px;
+  top: 50%;
+  margin-top: -11px;
+  background: #e5e5e5;
+}
+.main_cake_coupon_exchange .main .coupon_top .switch_tab {
+  text-align: center;
+}
+.main_cake_coupon_exchange .main .coupon_top .switch_tab a {
+  position: relative;
+  display: inline-block;
+  font-size: 16px;
+  padding: 20px;
+  margin-right: 32px;
+}
+.main_cake_coupon_exchange .main .coupon_top .switch_tab a:last-of-type {
+  margin-right: 0;
+}
+.main_cake_coupon_exchange .main .coupon_top .switch_tab a.active:before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  left: 0;
+  bottom: 0;
+  background: #ff4001;
+}
+.main_cake_coupon_exchange .main .outer .inner {
+  background: #f9f9f9;
+  padding: 16px;
+}
+.main_cake_coupon_exchange .main nav {
+  width: 1070px;
+  margin: 0 auto 20px;
+  border-bottom: 1px solid #be9a5e;
+}
+.main_cake_coupon_exchange .main nav a {
+  float: left;
+  width: 214px;
+  height: 90px;
+  line-height: 90px;
+  color: #9c9c9c;
+  text-align: center;
+  font-size: 16px;
+  position: relative;
+}
+.main_cake_coupon_exchange .main nav a.active {
+  color: #be9a5e;
+}
+.main_cake_coupon_exchange .main nav a.active:before {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 50%;
+  margin-left: -6px;
+  border-left: 1px solid #be9a5e;
+  border-top: 1px solid #be9a5e;
+  background: #ffffff;
+  bottom: -6px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+}
+.main_cake_coupon_exchange .main nav a.active span {
+  position: relative;
+}
+.main_cake_coupon_exchange .main nav a.active span:before {
+  content: '';
+  position: absolute;
+  width: 21px;
+  height: 19px;
+  background: url("card.png")/*tpa=https://newimgcdn.lapetit.cn/web/images/company/cakeCouponExchange/card.png*/ center no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  background-size: 100% 100%;
+  left: -24px;
+  top: 50%;
+  margin-top: -9px;
+}
+.main_cake_coupon_exchange .main .p_item_new {
+  height: 380px;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info {
+  padding-top: 10px;
+  height: 120px;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .name_wrap {
+  height: auto;
+  max-height: 44px;
+  overflow: hidden;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .pro_text {
+  position: absolute;
+  width: 203px;
+  height: 55px;
+  left: 50%;
+  margin-left: -100px;
+  top: -35px;
+  background: url("pop_bg_1.png")/*tpa=https://newimgcdn.lapetit.cn/web/images/company/cakeCouponExchange/pop_bg_1.png*/ no-repeat center;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .pro_text.long {
+  width: 269px;
+  background: url("pop_bg_2.png")/*tpa=https://newimgcdn.lapetit.cn/web/images/company/cakeCouponExchange/pop_bg_2.png*/ no-repeat center;
+  margin-left: -135px;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .pro_text.long .text {
+  width: 255px;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .pro_text .text {
+  position: absolute;
+  width: 190px;
+  height: 32px;
+  top: 5px;
+  left: 7px;
+  line-height: 32px;
+  text-align: center;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .pro_text .text p {
+  display: inline-block;
+  font-size: 12px;
+  color: #be9a5e;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .proposal {
+  font-size: 12px;
+}
+.main_cake_coupon_exchange .main .p_item_new .p_info .buy_btn1 {
+  position: absolute;
+  padding: 10px 0;
+  left: 0;
+  bottom: 0;
+  color: #ff1b00;
+  z-index: 2;
+}
+.main_cake_coupon_exchange .main .bottom_text {
+  overflow: hidden;
+  background: white;
+  padding: 0 22px;
+  margin: auto;
+  width: 1200px;
+}
+.main_cake_coupon_exchange .main .bottom_text h4 {
+  color: #3e3e3e;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 40px 0 20px 0;
+}
+.main_cake_coupon_exchange .main .bottom_text p {
+  color: #3e3e3e;
+  line-height: 30px;
+  font-size: 16px;
+}
+.main_cake_coupon_exchange .main .bottom_text p span {
+  font-weight: bold;
+}
+.main_cake_coupon_exchange .main .bottom_text p:last-child {
+  margin-bottom: 80px;
+}
+.main_cake_coupon_exchange .main .cakeCoupon {
+  background: url("img_1.jpg")/*tpa=https://newimgcdn.lapetit.cn/web/images/company/cakeCouponExchange/img_1.jpg*/ no-repeat top center;
+  background-size: 1920px 680px;
+  padding-top: 495px;
+}
+.main_cake_coupon_exchange .main .snackCoupon .no_content {
+  text-align: center;
+  font-size: 14px;
+  padding: 68px 0 100px;
+}
+.main_cake_coupon_exchange .main .snackCoupon .no_content p {
+  margin-top: 40px;
+}
+.main_cake_coupon_exchange .main .snackCoupon .no_content a {
+  color: #ff4001;
+  text-decoration: underline;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp {
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp .rules_title h1 {
+  font-size: 18px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp ul {
+  width: 720px;
+  padding-left: 300px;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp ul label {
+  float: left;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp ul p {
+  width: 646px;
+  float: left;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp ul li {
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp ul label {
+  float: left;
+}
+.main_cake_coupon_exchange .main .snackCoupon .rules_stamp ul p {
+  width: 646px;
+  float: left;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content {
+  padding-top: 18px;
+  margin: auto;
+  max-width: 980px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .top .bind_coupon_from .checkRules {
+  position: relative;
+  display: inline-block;
+  margin-right: 10px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .top .bind_coupon_from .checkRules .coupon_desc_popup {
+  z-index: 15;
+  width: 265px;
+  padding: 20px 20px 40px 20px;
+  position: absolute;
+  top: 55px;
+  left: -76px;
+  background: #fff;
+  box-shadow: 0px 0px 14px #cccccc;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .top .bind_coupon_from .checkRules .coupon_desc_popup .title {
+  color: #a38d6b;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .top .bind_coupon_from .checkRules .coupon_desc_popup span {
+  display: block;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .top .bind_coupon_from .checkRules .coupon_desc_popup span i {
+  display: inline-block;
+  width: 92%;
+  vertical-align: top;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle {
+  padding-left: 7px;
+  padding-bottom: 40px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap {
+  width: 225px;
+  height: 185px;
+  margin-right: 10px;
+  float: left;
+  box-shadow: 0 0 14px #cccccc;
+  position: relative;
+  margin-top: 32px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header {
+  position: relative;
+  background: #a38d6b;
+  color: #fff;
+  display: block;
+  padding: 10px 6px 30px 15px;
+  height: 100px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .coupon_bg_top {
+  width: 100%;
+  height: 14px;
+  position: absolute;
+  left: 0;
+  top: -14px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .coupon_bg_bottom {
+  width: 100%;
+  height: 8px;
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info {
+  align-items: center;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  padding: 0 6px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info .top {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info .is_coupon_aha {
+  position: absolute;
+  top: -14px;
+  width: 42px;
+  left: 0;
+  height: 42px;
+  background: url("news_aha.png")/*tpa=https://newimgcdn.lapetit.cn/web/images/coupons/news_aha.png*/;
+  background-size: cover;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info .price {
+  font-size: 24px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info .price small {
+  font-size: 12px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info .price_desc {
+  width: 110px;
+  margin-left: 6px;
+  font-size: 12px;
+  word-wrap: break-word;
+  max-height: 37px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info .price_desc .couponName {
+  max-height: 37px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  word-wrap: break-word;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_header .inner_info .price_desc span {
+  display: block;
+  width: 100%;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_detail {
+  text-align: right;
+  margin: 15px 10px;
+  cursor: pointer;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_middle {
+  position: relative;
+  padding: 55px 18px 0 18px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_middle p {
+  padding-bottom: 4px;
+  color: #9c9c9c;
+  position: relative;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_middle p span.desc_title {
+  font-size: 12px;
+  color: #a38d6b;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_middle .coupon_rule {
+  cursor: pointer;
+  position: relative;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_middle .coupon_rule:after {
+  content: '>';
+  position: absolute;
+  right: -6px;
+  bottom: 5px;
+  width: 15px;
+  height: 15px;
+  font-size: 16px;
+  line-height: 15px;
+  text-align: center;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_middle .coupon_rule .desc_content {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_middle .coupon_rule .coupon_detail {
+  position: absolute;
+  right: 0;
+  bottom: 2px;
+  background: #fff;
+  user-select: none;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_bottom {
+  text-align: center;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_bottom .use_coupon {
+  margin-top: 30px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_bottom .use_coupon button {
+  width: 125px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 15px;
+  background: #a38d6b;
+  color: #fff;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_bottom .use_coupon button:disabled {
+  background: #9c9c9c;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_bottom .message {
+  color: #9c9c9c;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_desc_popup {
+  z-index: 100;
+  width: 190px;
+  padding: 20px 20px 40px 20px;
+  position: absolute;
+  left: 0;
+  background: #fff;
+  box-shadow: 0px 0px 14px #cccccc;
+  top: 157px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_desc_popup .title {
+  font-size: 14px;
+  color: #a38d6b;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_wrap .coupon_desc_popup .coupon_desc_detail {
+  font-size: 12px;
+  word-wrap: break-word;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_no_used .coupon_header,
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_out_used .coupon_header {
+  background: #cccccc;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_no_used .coupon_middle img.coupon_used,
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_out_used .coupon_middle img.coupon_used {
+  position: absolute;
+  right: 5px;
+  top: -10px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_no_used .coupon_middle p,
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_out_used .coupon_middle p {
+  color: #9c9c9c;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_no_used .coupon_middle p span.desc_title,
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_out_used .coupon_middle p span.desc_title {
+  color: #9c9c9c;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_no_used .coupon_desc_popup,
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_out_used .coupon_desc_popup {
+  color: #9c9c9c;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_no_used .coupon_desc_popup .title,
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .coupon_out_used .coupon_desc_popup .title {
+  color: #9c9c9c;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .no_content {
+  text-align: center;
+  font-size: 14px;
+  padding: 40px 0 0;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .no_content p {
+  margin-top: 20px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .pop_view .code_info {
+  background: #fff;
+  text-align: center;
+  padding: 40px 0;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .pop_view .code_info .code_img {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .pop_view .code_info .code_img img {
+  width: 100%;
+  height: 100%;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .middle .pop_view .code_info .code_message {
+  margin: 10px auto;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .paging {
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .paging .paging_wrap {
+  float: right;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .paging .paging_wrap a,
+.main_cake_coupon_exchange .main .nPlusCoupon .content .paging .paging_wrap span {
+  display: inline-block;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #9c9c9c;
+  padding: 8px 11px;
+  margin: 0 3px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .content .paging .paging_wrap .active {
+  border: 1px solid #ff4001;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .bind_mask {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 21;
+  background: rgba(0, 0, 0, 0.5);
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 {
+  width: 440px;
+  position: fixed;
+  top: 140px;
+  left: 50%;
+  margin-left: -300px;
+  background: #fff;
+  text-align: center;
+  padding: 30px 80px;
+  z-index: 22;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .bind_close_btn {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  text-indent: -1000px;
+  overflow: hidden;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .bind_close_btn:before {
+  content: '';
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: url("icons-1.png-20190310.png")/*tpa=https://newimgcdn.lapetit.cn/web/images/icons.png?20190310*/ center no-repeat;
+  -webkit-background-size: 400px 400px;
+  -moz-background-size: 400px 400px;
+  background-size: 400px 400px;
+  top: 50%;
+  margin-top: -20px;
+  background-position: -200px -320px;
+  left: 0;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 h5 {
+  font-size: 16px;
+  line-height: 40px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .form {
+  background: #fff;
+  padding: 20px 20px 0;
+  background-repeat: no-repeat;
+  background-size: 13px 7px;
+  background-position: center 19px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap {
+  height: 45px;
+  margin-bottom: 10px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap input {
+  height: 100%;
+  width: 100%;
+  background: #f0f0f0;
+  text-align: center;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap input::-webkit-input-placeholder {
+  color: #a3a3a3;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap input:-moz-placeholder {
+  color: #a3a3a3;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap input::-moz-placeholder {
+  color: #a3a3a3;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap input:-ms-input-placeholder {
+  color: #a3a3a3;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap.yzm_wrap {
+  margin-bottom: 16px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap.yzm_wrap .yzm_area {
+  height: 100%;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap.yzm_wrap .yzm_area input {
+  width: 220px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap.yzm_wrap .yzm_area img {
+  height: 50px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .input_wrap.yzm_wrap .yzm_area a {
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: underline;
+  color: #ff4001;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 input:-webkit-autofill {
+  background-color: #e8f0fe !important;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .btn_wrap {
+  line-height: 45px;
+  margin-top: 30px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .btn_wrap button {
+  width: 260px;
+  height: 45px;
+  line-height: 45px;
+  left: 0;
+  background: #ff4001;
+  color: #ffffff;
+  font-size: 16px;
+}
+.main_cake_coupon_exchange .main .nPlusCoupon .bind_cake_coupon_wrap .section_2 .btn_wrap button:disabled {
+  background: #ddd;
+}
+.main_cake_coupon_exchange .snowUpgrade {
+  z-index: 101;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.main_cake_coupon_exchange .snowUpgrade * {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+.main_cake_coupon_exchange .snowUpgrade .cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.2);
+}
+.main_cake_coupon_exchange .snowUpgrade .outer {
+  position: absolute;
+  width: 934px;
+  z-index: 1;
+  background: #ffffff;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  padding: 0 20px;
+  overflow: auto;
+  color: #af8d60;
+  font-size: 12px;
+}
+.main_cake_coupon_exchange .snowUpgrade h3 {
+  font-size: 16px;
+  line-height: 50px;
+  text-align: center;
+}
+.main_cake_coupon_exchange .snowUpgrade .inner {
+  padding: 16px;
+  border: 1px solid #f0f0f0;
+}
+.main_cake_coupon_exchange .snowUpgrade .origin_goods_wrap {
+  position: relative;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #9c9c9c;
+}
+.main_cake_coupon_exchange .snowUpgrade ul {
+  margin-top: 16px;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item {
+  float: left;
+  position: relative;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(222, 222, 222, 0.6);
+  -webkit-box-shadow: 0 0 10px rgba(222, 222, 222, 0.6);
+  margin: 0 10px 10px 0;
+  width: 280px;
+  height: 100px;
+  padding: 10px;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item:before {
+  display: none;
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 50%;
+  margin-left: -6px;
+  border-left: 1px solid #9c9c9c;
+  border-top: 1px solid #9c9c9c;
+  background: #ffffff;
+  bottom: -32px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item:nth-of-type(3n) {
+  margin-right: 0;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .select_flag {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 50%;
+  margin-top: -16px;
+  right: 12px;
+  z-index: 2;
+  text-indent: -10000px;
+  overflow: hidden;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .select_flag:before {
+  content: '';
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: url("icons.png-4.png")/*tpa=https://newimgcdn.lapetit.cn/web/images/icons.png?4*/ center no-repeat;
+  -webkit-background-size: 400px 400px;
+  -moz-background-size: 400px 400px;
+  background-size: 400px 400px;
+  top: 50%;
+  margin-top: -20px;
+  background-position: -320px 0;
+  left: 50%;
+  margin-left: -20px;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .select_flag.active:before {
+  background-position: -280px 0;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .img_wrap {
+  width: 80px;
+  height: 80px;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .img_wrap img {
+  max-height: 100%;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .goods_info {
+  position: relative;
+  height: 80px;
+  margin-left: 90px;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .goods_info .price_wrap {
+  position: absolute;
+  bottom: 4px;
+  left: 0;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item .standard_fitting {
+  color: #949494;
+}
+.main_cake_coupon_exchange .snowUpgrade ul .p_item.active:before {
+  display: block;
+}
+.main_cake_coupon_exchange .snowUpgrade .desc_wrap {
+  text-align: center;
+  padding-top: 10px;
+}
+.main_cake_coupon_exchange .snowUpgrade .desc_wrap p {
+  display: inline-block;
+  margin-left: 20px;
+}
+.main_cake_coupon_exchange .snowUpgrade .desc_wrap p:first-of-type {
+  margin-left: 0;
+}
+.main_cake_coupon_exchange .snowUpgrade .upgrade_info {
+  margin-top: 10px;
+  text-align: center;
+  color: #3e3e3e;
+}
+.main_cake_coupon_exchange .snowUpgrade .btn_wrap {
+  width: 360px;
+  margin: 20px auto;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+.main_cake_coupon_exchange .snowUpgrade .btn_wrap button {
+  position: relative;
+  font-size: 14px;
+  width: 160px;
+  text-align: center;
+  height: 40px;
+  line-height: 38px;
+  background: transparent;
+  border: 1px solid #ff4001;
+}
+.main_cake_coupon_exchange .snowUpgrade .btn_wrap button:last-of-type {
+  background: #ff4001;
+  color: #ffffff;
+}
